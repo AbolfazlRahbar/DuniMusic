@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DuniMusic</string>
+
+    <string name="now_playing">now playing</string>
+
+    <string name="Negine_Ghalbami">Negine Ghalbami</string>
+
+    <string name="Majid_Razavi">Majid Razavi</string>
+
+    <string name="Zero">00:00</string>
+
+</resources>
